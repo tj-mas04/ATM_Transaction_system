@@ -9,5 +9,5 @@ This project demostrates an ATM management system in C++ that enables users to a
     • After entering the amount to be withdrawn from the account, the available balance will be displayed.
     • Transaction will be cancelled in the end.
 
-PS: USE the account number :1234567890
+PS: USE the account number :1234567890 \n
     PIN                    :1234
